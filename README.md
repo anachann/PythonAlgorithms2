@@ -1,2 +1,2 @@
 # PythonAlgorithms2
-Created for studying
+Created in the purpose of studying
